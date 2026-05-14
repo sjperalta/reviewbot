@@ -1,0 +1,6 @@
+.env
+reviews/
+*.db
+*.log
+tmp/
+.rspec_status

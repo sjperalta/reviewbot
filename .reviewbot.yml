@@ -1,0 +1,29 @@
+# reviewbot configuration
+# Place this in the root of the repository you want to review
+
+# Explicit stack declaration (overrides auto-detection)
+# Supported: ruby, rails, javascript, typescript, react, flutter, dart, go
+# stack:
+#   - rails
+#   - react
+#   - typescript
+
+# Custom rules that influence AI review prompts
+# These are injected into the repository context layer
+# rules:
+#   require_specs: true
+#   require_transactions_for_payments: true
+#   avoid_fat_controllers: true
+#   service_objects: true
+#   require_swift_ui_previews: false
+
+# Files and patterns to exclude from AI review
+# ignore:
+#   - db/schema.rb
+#   - yarn.lock
+#   - package-lock.json
+#   - coverage/
+#   - snapshots/
+#   - "*.generated.*"
+#   - vendor/
+#   - node_modules/
