@@ -148,6 +148,13 @@ bundle exec rspec        # Run tests
 bundle exec standard     # Lint with Standard
 ```
 
+Example:
+
+<img width="1723" height="998" alt="Screenshot 2026-05-13 at 7 27 59 PM" src="https://github.com/user-attachments/assets/e7d1d2be-6918-4d5f-a7f8-e684d6f4c34c" />
+
+<img width="1728" height="999" alt="Screenshot 2026-05-13 at 7 28 16 PM" src="https://github.com/user-attachments/assets/1e10c47d-6ac3-4519-8efe-6efc1aae87fb" />
+
+
 ## License
 
 MIT
